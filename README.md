@@ -1,0 +1,1 @@
+I used these Markdown image codes in VSCode with the **Markdown Preview Enhanced** extension, but the images wouldn’t load. So I posted here to check if the issue was with the preview — and it turns out it was."
